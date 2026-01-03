@@ -1,7 +1,7 @@
 # ===============================
 #   UBUNTU + SSHX + KEEP ALIVE
 #   Railway Ready
-# ===============================
+# ==============================
 FROM ubuntu:22.04
 
 # Tránh hỏi khi apt install
